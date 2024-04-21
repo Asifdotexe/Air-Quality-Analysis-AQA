@@ -1,4 +1,4 @@
-# Integrated-Air-Quality-Analysis-IAQA
+# Integrated-Air-Quality-Analysis-AQA
 
 ## About the pollutants
 
